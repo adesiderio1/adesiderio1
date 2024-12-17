@@ -7,6 +7,13 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Angelo Desiderio",
+    "section": "",
+    "text": "1. Data Science Portfolio\nDescription: Built a predictive model for customer churn using machine learning techniques.\nTools: R, Python, Tableau\n\n\n\nAmazon Regression Study\nDescription: Developed a sentiment analysis tool for IMDB reviews using NLP techniques.\nTools: Python, scikit-learn, NLTK\n\nLink: View Project\n\n\n\n3. UFC Regression Model Research Study\nDescription: Conducted a deep-dive analysis into UFC fighter stance and match outcome.\nTools: R, Shiny, ggplot2\nLink: View Project Here"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Work Experience",
@@ -14,31 +21,10 @@
     "text": "Work Experience\n\n\n\n\n\n\nFor the past two years I have been a data analyst for the UCLA Tennis Consulting Organization. I’ve mostly been responsible for the data collection, pre-processing and cleaning stages of tennis matches that is eventually used for analytic reports and dashboards. I most program with Python for the creation of notebooks and Tableau for visualization.\n\n\n\n\n\nI have been a data assistant for the City of Lancaster since October 2024, providing suggestions and insights on organizational data ranging from handling to analytics.\n\n\n\n\n\nI interned for the Weld-On R&D Lab for the IPS Corporation."
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Home",
-    "section": "About Me",
-    "text": "About Me\nI am a data scientist with a passion for analytics and statistical modeling."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
+    "objectID": "footer.html",
+    "href": "footer.html",
     "title": "Angelo Desiderio",
     "section": "",
-    "text": "Welcome to my project portfolio! Here are some of the key projects I’ve worked on:"
-  },
-  {
-    "objectID": "projects.html#featured-projects",
-    "href": "projects.html#featured-projects",
-    "title": "Angelo Desiderio",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n1. Data Science Portfolio\n\nDescription: Built a predictive model for customer churn using machine learning techniques.\nTools: R, Python, Tableau\n\nLink: View Project\n\n\n\n\n2. Sentiment Analysis\n\nDescription: Developed a sentiment analysis tool for IMDB reviews using NLP techniques.\nTools: Python, scikit-learn, NLTK\n\nLink: View Project\n\n\n\n\n3. Airline Safety Analysis\n\nDescription: Conducted a deep-dive analysis into aviation safety trends using RStudio and Shiny dashboards.\nTools: R, Shiny, ggplot2\n\nLink: View Project"
-  },
-  {
-    "objectID": "projects.html#more-projects-coming-soon",
-    "href": "projects.html#more-projects-coming-soon",
-    "title": "Angelo Desiderio",
-    "section": "More Projects Coming Soon!",
-    "text": "More Projects Coming Soon!"
+    "text": "Contact Information\n📧 Email: angelodesiderio20@gmail.com\n📞 Phone: 661-492-5784"
   }
 ]
